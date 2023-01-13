@@ -1,0 +1,90 @@
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imobiliaria_PAP.exe
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\MetroFramework.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imob_db.mdf
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imob_db_log.ldf
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imobiliaria_PAP.exe.config
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imobiliaria_PAP.exe
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imobiliaria_PAP.pdb
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Dapper.dll
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\MetroFramework.Design.dll
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\MetroFramework.dll
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Dapper.xml
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.csprojAssemblyReference.cache
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.BackOffice.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Form1.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Login.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.AlterarPassword.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.NovaPassword.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Registar.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Properties.Resources.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.csproj.GenerateResource.cache
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.csproj.CopyComplete
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.exe
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.pdb
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.FormLogo.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.FormMantCliente.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.FormMembresia.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.FormMenuPrincipal.resources
+C:\Users\casas\Desktop\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.FormListaClientes.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\CircularProgressBar.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\WinFormAnimation.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x64\liblept1753.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x64\libtesseract3052.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imob_db.mdf
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imob_db_log.ldf
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Imobiliaria_PAP.exe.config
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\AForge.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\AForge.Imaging.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\AForge.Math.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\MetroFramework.Design.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\Tesseract.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\AForge.xml
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\AForge.Imaging.xml
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\AForge.Math.xml
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\CircularProgressBar.xml
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Editar.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Utilizadores.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Inserir.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.BemVindo.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Front_Office.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.BackOffice.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.FormLogo.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Captcha.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Login.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.AlterarPassword.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.NovaPassword.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Registar.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Pesquisar.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Properties.Resources.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.UtilizadorPerfil.resources
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.csproj.GenerateResource.cache
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.csproj.CopyComplete
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.exe
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.pdb
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\x86\liblept1753.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\x86\libtesseract3052.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\x64\liblept1753.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\x64\libtesseract3052.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\Imob_db.mdf
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\Imob_db_log.ldf
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\Imobiliaria_PAP.exe.config
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\Imobiliaria_PAP.exe
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\Imobiliaria_PAP.pdb
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\AForge.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\AForge.Imaging.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\AForge.Math.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\CircularProgressBar.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\MetroFramework.Design.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\MetroFramework.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\MetroFramework.Fonts.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\Tesseract.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\WinFormAnimation.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\AForge.xml
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\AForge.Imaging.xml
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\AForge.Math.xml
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\bin\Debug\x86\CircularProgressBar.xml
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Imobiliaria_PAP\obj\Debug\Imobiliaria_PAP.Reservar.resources

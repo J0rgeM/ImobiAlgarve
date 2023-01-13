@@ -1,0 +1,5 @@
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Common\bin\Debug\Common.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Common\bin\Debug\Common.pdb
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Common\obj\Debug\Common.dll
+C:\Users\jorge\OneDrive\Ambiente de Trabalho\Imobiliaria_PAP\Common\obj\Debug\Common.pdb
